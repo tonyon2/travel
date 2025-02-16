@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1,teletuya
+https://live-b2.cf.dmcdn.net/sec2(OXAn3OMzcnjQB5SRxiEP3S6Bl6DumicWCM5CroOVI74ktYOjnpBYrBjtEMw056pyxvC0pEMGySnaXvpuV8mTx5huINdE9Lqs0Xd98PfRQVJfOzVlpLv5WdeSL6HwtBGQ)/cloud/3/x8z1lwk/s/live-240.m3u8
+#EXTINF:-1,teletuya
+https://live-b2.cf.dmcdn.net/sec2(OXAn3OMzcnjQB5SRxiEP3S6Bl6DumicWCM5CroOVI74ktYOjnpBYrBjtEMw056pyxvC0pEMGySnaXvpuV8mTx5huINdE9Lqs0Xd98PfRQVJfOzVlpLv5WdeSL6HwtBGQ)/cloud/3/x8z1lwk/s/live-380.m3u8
+#EXTINF:-1,teletuya
+https://live-b2.cf.dmcdn.net/sec2(OXAn3OMzcnjQB5SRxiEP3S6Bl6DumicWCM5CroOVI74ktYOjnpBYrBjtEMw056pyxvC0pEMGySnaXvpuV8mTx5huINdE9Lqs0Xd98PfRQVJfOzVlpLv5WdeSL6HwtBGQ)/cloud/3/x8z1lwk/s/live-480.m3u8
+#EXTINF:-1,teletuya
+https://live-b2.cf.dmcdn.net/sec2(OXAn3OMzcnjQB5SRxiEP3S6Bl6DumicWCM5CroOVI74ktYOjnpBYrBjtEMw056pyxvC0pEMGySnaXvpuV8mTx5huINdE9Lqs0Xd98PfRQVJfOzVlpLv5WdeSL6HwtBGQ)/cloud/3/x8z1lwk/s/live-720.m3u8
+#EXTINF:-1,iptvtools_5
+https://samson.streamerr.co:8081/shogun/tracks-v1a1/mono.m3u8
+#EXTINF:-1,iptvtools_6
+https://stream.ads.ottera.tv/cl/250216cuou77qsr0tqcqlrump0/854x480_1355200_2_f.m3u8
